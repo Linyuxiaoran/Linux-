@@ -1,0 +1,4 @@
+安装Ubuntu的图形界面
+sudo apt-get install xinit
+sudo apt-get install gdm
+sudo apt-get install ubuntu-desktop
